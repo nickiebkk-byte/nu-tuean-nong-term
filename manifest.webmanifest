@@ -9,10 +9,10 @@
   "theme_color": "#1680ec",
   "icons": [
     {
-      "src": "icon-18.webp",
-      "sizes": "any",
-      "type": "image/webp",
-      "purpose": "any maskable"
+      "src": "home-screen-icon.png?v=2",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any"
     }
   ]
 }
