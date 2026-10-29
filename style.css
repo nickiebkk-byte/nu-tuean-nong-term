@@ -89,3 +89,6 @@ html,body,button,input,textarea,select,option,output,nav,a,h1,h2,h3,h4,p,span,st
 .coupon-hero h1{font-size:28px}
 .coupon-hero img{width:45%;margin-right:-12px}
 }
+
+/* Uppercase Latin text visually across UI; Thai remains unchanged. */
+body,button,input,textarea,select,option,.coupon-hub{ text-transform:uppercase; }
